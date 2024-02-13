@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:background="#B2E0FF"
+    tools:context=".ModificarFragment"
+    android:gravity="center">
+
+
+    <LinearLayout
+        android:layout_width="321dp"
+        android:layout_height="390dp"
+        android:layout_gravity="center"
+        android:layout_marginStart="8dp"
+        android:layout_marginTop="8dp"
+        android:layout_marginEnd="8dp"
+        android:layout_marginBottom="8dp"
+        android:background="@drawable/fondoredondo2"
+        android:orientation="vertical"
+        android:padding="8dp"
+        tools:context=".CrearFragment">
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:layout_marginBottom="16dp"
+            android:paddingBottom="15sp"
+            android:text="Modificar Producto"
+            android:textColor="#264961"
+            android:textSize="30sp"
+            android:textStyle="bold" />
+
+        <EditText
+            android:id="@+id/productIdToUpdateEditText"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="8dp"
+            android:hint="ID del Producto a Actualizar"
+            android:inputType="number"
+            android:minHeight="48dp"
+            android:textColor="#000000"
+            android:textColorHint="#231D1D" />
+
+        <EditText
+            android:id="@+id/updatedProductNameEditText"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="8dp"
+            android:hint="Nuevo Nombre"
+            android:inputType="text"
+            android:minHeight="48dp"
+            android:textColor="#000000"
+            android:textColorHint="#231D1D" />
+
+        <EditText
+            android:id="@+id/updatedProductDescEditText"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="8dp"
+            android:hint="Nueva Descripción"
+            android:inputType="text"
+            android:minHeight="48dp"
+            android:textColor="#000000"
+            android:textColorHint="#231D1D" />
+
+        <EditText
+            android:id="@+id/updatedProductImgEditText"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="8dp"
+            android:hint="Nueva URL de la Imagen"
+            android:inputType="text"
+            android:minHeight="48dp"
+            android:textColor="#000000"
+            android:textColorHint="#231D1D" />
+
+        <Button
+            android:id="@+id/updateProductButton"
+            android:layout_width="147dp"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_horizontal"
+            android:layout_marginTop="16dp"
+            android:backgroundTint="#486E88"
+            android:minHeight="48dp"
+            android:text="Crear"
+            android:textColor="#FFFFFF" />
+
+    </LinearLayout>
+</RelativeLayout>

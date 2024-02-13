@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <style name="Widget.MyApp.BottomNavigationView" parent="Widget.Design.BottomNavigationView">
+        <item name="android:theme">@style/MyApp.BottomNavigationView</item>
+    </style>
+
+    <style name="MyApp.BottomNavigationView" parent="Theme.AppCompat.NoActionBar">
+        <item name="colorControlHighlight">@android:color/transparent</item>
+    </style>
+
+    <style name="SplashTheme" parent="Theme.AppCompat.Light.NoActionBar">
+        <item name="android:windowBackground">@color/green</item>
+    </style>
+
+</resources>

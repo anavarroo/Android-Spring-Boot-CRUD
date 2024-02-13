@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1038144462064",
+    "project_id": "finalmultimedia-6c1ed",
+    "storage_bucket": "finalmultimedia-6c1ed.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1038144462064:android:85599332c3317d17c6b635",
+        "android_client_info": {
+          "package_name": "com.vedruna.finalmultimedia"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBjvri49Z0tXlEUque7IVJz94minnpdVnY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
