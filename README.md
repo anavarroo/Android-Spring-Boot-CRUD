@@ -24,7 +24,7 @@ En resumen, este proyecto es una aplicación de Android que ofrece funcionalidad
 # Partes explicadas:
 
 ## Activity 1 (Login)
-![Alt text](image.png)
+![image](https://github.com/anavarroo/AndroidApp/assets/117681310/cbcd0e11-b03a-4e72-86c9-3b510582acbc)
 
 ### Lógica
 
@@ -36,7 +36,7 @@ Este archivo XML define la interfaz de usuario para la pantalla de inicio de ses
 
 
 ## Activity 2 (Menu y fragments)
-![Alt text](image-1.png)
+
 
 ### Lógica
 
@@ -60,7 +60,8 @@ Define la disposición de la interfaz de usuario para el fragmento HomeFragment.
 
 
 ## Fragement 2 (Crear producto)
-![Alt text](image-2.png)
+![image](https://github.com/anavarroo/AndroidApp/assets/117681310/fcd3254f-76f6-46d6-afaf-072c60b5fa3e)
+
 
 ### Lógica
 
@@ -72,7 +73,8 @@ Define la disposición de la interfaz de usuario para el fragmento CrearFragment
 
 
 ## Fragement 3 (Modificar producto)
-![Alt text](image-3.png)
+![image](https://github.com/anavarroo/AndroidApp/assets/117681310/677e821e-dbe4-4462-a1c2-16f2fdd1592d)
+
 
 ### Lógica
 
@@ -84,7 +86,8 @@ Define la disposición de la interfaz de usuario para el fragmento ModificarFrag
 
 
 ## Fragement 4 (Eliminar producto)
-![Alt text](image-4.png)
+![image](https://github.com/anavarroo/AndroidApp/assets/117681310/700f0ba4-1fc3-4093-82a0-3ca0d4bbbeaf)
+
 
 ### Lógica
 
@@ -97,7 +100,8 @@ Define la disposición de la interfaz de usuario para el fragmento EliminarFragm
 
 
 ## Fragement 5 (Salir)
-![Alt text](image-5.png)
+![image](https://github.com/anavarroo/AndroidApp/assets/117681310/71930415-4a47-42d1-b29c-53c3b5c8c9b7)
+
 
 ### Lógica
 
