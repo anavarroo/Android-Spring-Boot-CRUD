@@ -38,6 +38,7 @@ Este archivo XML define la interfaz de usuario para la pantalla de inicio de ses
 ## Activity 2 (Menu y fragments)
 
 
+
 ### Lógica
 
 Actividad llamada ContenedorFragmentActivity, que extiende AppCompatActivity. Esta actividad se encarga de manejar la navegación a través de diferentes fragmentos utilizando un BottomNavigationView.
@@ -48,7 +49,7 @@ Define la disposición de la interfaz de usuario para la actividad ContenedorFra
 
 
 ## Fragement 1 (Home)
-![Alt text](image-1.png)
+![image](https://github.com/anavarroo/AndroidApp/assets/117681310/cbcd0e11-b03a-4e72-86c9-3b510582acbc)
 
 ### Lógica
 
